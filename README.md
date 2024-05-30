@@ -1,4 +1,4 @@
-# College Canteen Food Ordering Website
+# College Canteen Food Ordering Website (link)[https://flavour-fusion-eight.vercel.app/]
 
 ## Description
 This is a full-stack website built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to order food from the college canteen.
@@ -21,7 +21,7 @@ This is a full-stack website built with the MERN stack (MongoDB, Express.js, Rea
 2. Navigate into the directory: `cd <repository-name>`
 3. Install the dependencies: `npm install`
 4. Start the backend server: `npm run dev`
-5. In a new terminal window, navigate into the client directory: `cd client`
+5. In a new terminal window, navigate into the client directory: `cd Frontend`
 6. Install the client dependencies: `npm install`
 7. Start the client server: `npm start`
 
@@ -36,4 +36,5 @@ Provide instructions on how others can contribute to your project.
 Include information about the license.
 
 ## Contact
-Your Name - Your Email - Your Github Profile Link
+Name -Rampal Yadav
+Email-rampalyadav23082001@gmail.com
