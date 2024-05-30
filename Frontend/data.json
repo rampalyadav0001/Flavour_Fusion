@@ -1,0 +1,473 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Cheeseburger",
+      "description": "A classic cheeseburger with a juicy beef patty, melted cheese, lettuce, tomato, and pickles.",
+      "price": 4.99,
+      "rating": 4.5,
+      "category": "Burger",
+      "thumbnail": "https://wallpaperaccess.com/full/2004483.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Hamburger",
+      "description": "A traditional hamburger with a seasoned beef patty, lettuce, tomato, onions, and pickles on a sesame seed bun.",
+      "price": 3.99,
+      "rating": 4.2,
+      "category": "Burger",
+      "thumbnail": "https://www.tasteofhome.com/wp-content/uploads/2017/10/exps28800_UG143377D12_18_1b_RMS.jpg"
+    },
+    {
+      "id": 3,
+      "title": "French Fries",
+      "description": "Crispy golden french fries lightly salted for the perfect snack or side dish.",
+      "price": 2.49,
+      "rating": 4.4,
+      "category": "Side Dish",
+      "thumbnail": "https://wallpapercave.com/wp/wp2148273.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Loaded Nachos",
+      "description": "Tortilla chips topped with melted cheese, seasoned ground beef, jalapenos, sour cream, and salsa.",
+      "price": 5.99,
+      "rating": 4.6,
+      "category": "Side Dish",
+      "thumbnail": "https://www.spendwithpennies.com/wp-content/uploads/2018/12/SpendWithPennies-Best-Loaded-Nachos-22.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Chicken Nuggets",
+      "description": "Tender and juicy chicken nuggets, served with your choice of dipping sauce.",
+      "price": 3.99,
+      "rating": 4.3,
+      "category": "Appetizer",
+      "thumbnail": "https://thetoastedpinenut.com/wp-content/uploads/2017/08/IMG_5288.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Onion Rings",
+      "description": "Crispy and crunchy onion rings served with a side of dipping sauce.",
+      "price": 3.99,
+      "rating": 4.1,
+      "category": "Appetizer",
+      "thumbnail": "https://natashaskitchen.com/wp-content/uploads/2022/06/Onion-Rings-Recipe-5.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Mozzarella Sticks",
+      "description": "Golden brown mozzarella sticks served with marinara sauce for dipping.",
+      "price": 3.99,
+      "rating": 4.4,
+      "category": "Appetizer",
+      "thumbnail": "https://th.bing.com/th/id/OIP.QcRkgTZ1yYOmv0MKVvOdVQHaLH?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 8,
+      "title": "Milkshake",
+      "description": "Creamy and delicious milkshake available in various flavors like chocolate, vanilla, and strawberry.",
+      "price": 3.49,
+      "rating": 4.5,
+      "category": "Beverage",
+      "thumbnail": "https://www.unicornsinthekitchen.com/wp-content/uploads/2021/07/Strawberry-Milkshake-2.1200px-1-of-1-720x1080.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Soft Drink",
+      "description": "A refreshing soft drink available in various sizes and flavors.",
+      "price": 1.49,
+      "rating": 4.2,
+      "category": "Beverage",
+      "thumbnail": "https://th.bing.com/th/id/OSK.HEROBXuw2IvZ94pKy-Nv51CEh9LTCAGPRfG8ZPNUU2kwjmo?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 10,
+      "title": "Hot Dog",
+      "description": "A classic hot dog served with ketchup, mustard, and onions.",
+      "price": 3.29,
+      "rating": 4,
+      "category": "Hot Dog",
+      "thumbnail": "https://i.imgur.com/2Rq75HR.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Corn Dog",
+      "description": "A classic corn dog with a savory hot dog encased in sweet cornbread batter.",
+      "price": 2.99,
+      "rating": 3.8,
+      "category": "Hot Dog",
+      "thumbnail": "https://i.imgur.com/mGG63a3.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Pizza Slice",
+      "description": "A slice of mouth-watering pizza topped with cheese, pepperoni, and tomato sauce.",
+      "price": 2.99,
+      "rating": 4.6,
+      "category": "Pizza",
+      "thumbnail": "https://i.imgur.com/lqBkgqe.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Taco",
+      "description": "A delicious taco filled with seasoned beef, lettuce, cheese, and salsa.",
+      "price": 2.99,
+      "rating": 4.3,
+      "category": "Mexican",
+      "thumbnail": "https://i.imgur.com/rwGvSbJ.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Burrito",
+      "description": "A hearty burrito stuffed with rice, beans, cheese, and your choice of meat.",
+      "price": 5.99,
+      "rating": 4.5,
+      "category": "Mexican",
+      "thumbnail": "https://i.imgur.com/mEwQaA2.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Nachos",
+      "description": "Crispy tortilla chips topped with melted cheese, jalapenos, sour cream, and salsa.",
+      "price": 4.99,
+      "rating": 4.4,
+      "category": "Mexican",
+      "thumbnail": "https://i.imgur.com/n8VY3X7.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Chicken Sandwich",
+      "description": "A crispy chicken fillet served on a toasted bun with lettuce, tomato, and mayo.",
+      "price": 4.49,
+      "rating": 4.2,
+      "category": "Sandwich",
+      "thumbnail": "https://i.imgur.com/Ml0bX0X.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Fish Sandwich",
+      "description": "A tasty fish fillet served on a bun with lettuce, tartar sauce, and a slice of lemon.",
+      "price": 4.99,
+      "rating": 4.1,
+      "category": "Sandwich",
+      "thumbnail": "https://i.imgur.com/LOFNNzL.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Chicken Wrap",
+      "description": "Grilled chicken wrapped in a soft flour tortilla with lettuce, tomato, cheese, and ranch dressing.",
+      "price": 4.99,
+      "rating": 4.3,
+      "category": "Wrap",
+      "thumbnail": "https://i.imgur.com/1sVWpAb.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Veggie Wrap",
+      "description": "A delicious veggie wrap filled with assorted fresh vegetables and hummus.",
+      "price": 4.49,
+      "rating": 4,
+      "category": "Wrap",
+      "thumbnail": "https://i.imgur.com/QeUXOU6.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Caesar Salad",
+      "description": "Fresh romaine lettuce tossed in Caesar dressing with croutons and parmesan cheese.",
+      "price": 5.99,
+      "rating": 4.5,
+      "category": "Salad",
+      "thumbnail": "https://i.imgur.com/z9gIUIb.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Greek Salad",
+      "description": "A classic Greek salad with crisp lettuce, tomatoes, cucumbers, olives, feta cheese, and Greek dressing.",
+      "price": 6.99,
+      "rating": 4.3,
+      "category": "Salad",
+      "thumbnail": "https://i.imgur.com/W4YSvxw.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Fruit Salad",
+      "description": "A refreshing fruit salad made with a variety of fresh seasonal fruits.",
+      "price": 4.99,
+      "rating": 4.2,
+      "category": "Salad",
+      "thumbnail": "https://i.imgur.com/Nz5hqig.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Ice Cream Sundae",
+      "description": "A delightful ice cream sundae topped with whipped cream, chocolate syrup, nuts, and a cherry.",
+      "price": 3.99,
+      "rating": 4.6,
+      "category": "Dessert",
+      "thumbnail": "https://i.imgur.com/sj1L4vD.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Brownie",
+      "description": "A rich and decadent chocolate brownie served warm with a scoop of vanilla ice cream.",
+      "price": 2.99,
+      "rating": 4.4,
+      "category": "Dessert",
+      "thumbnail": "https://i.imgur.com/U6uPx47.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Cheesecake",
+      "description": "Creamy and smooth cheesecake with a graham cracker crust, topped with your choice of fruit topping.",
+      "price": 4.99,
+      "rating": 4.7,
+      "category": "Dessert",
+      "thumbnail": "https://i.imgur.com/DIbUJiA.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Chocolate Chip Cookie",
+      "description": "A classic chocolate chip cookie baked to perfection and served warm.",
+      "price": 1.49,
+      "rating": 4.3,
+      "category": "Dessert",
+      "thumbnail": "https://i.imgur.com/8QPKK7w.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Iced Coffee",
+      "description": "Chilled coffee served over ice with your choice of cream and sweetener.",
+      "price": 2.99,
+      "rating": 4.2,
+      "category": "Beverage",
+      "thumbnail": "https://cdn.pickuplimes.com/cache/0e/3a/0e3a9431b6af2aff54e97e573f58476c.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Green Tea",
+      "description": "Refreshing green tea served hot or iced, with or without sweetener.",
+      "price": 1.99,
+      "rating": 4.4,
+      "category": "Beverage",
+      "thumbnail": "https://th.bing.com/th/id/OIP.36Myfq5znYy7WxoGncH7jAHaE8?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 29,
+      "title": "Margarita",
+      "description": "A classic margarita made with tequila, lime juice, and triple sec, served with a salted rim.",
+      "price": 6.99,
+      "rating": 4.6,
+      "category": "Cocktail",
+      "thumbnail": "https://i.imgur.com/Zzml4J4.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Martini",
+      "description": "An elegant martini made with gin or vodka and vermouth, garnished with an olive or lemon twist.",
+      "price": 7.99,
+      "rating": 4.5,
+      "category": "Cocktail",
+      "thumbnail": "https://i.imgur.com/BJmKLrD.jpg"
+    }
+  ],
+  "category": [
+    {
+      "name": "Mexican",
+      "imageUrl": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/categories/CAT290.jpg?ver=44.28"
+    },
+    {
+      "name": "Beverage",
+      "imageUrl": "https://media.nutrition.org/wp-content/uploads/2019/06/beverages-carbonated-drink-cold-drink-1571849.jpg"
+    },
+    {
+      "name": "Sandwich",
+      "imageUrl": "https://wallpapercave.com/wp/wp2053456.jpg"
+    },
+    {
+      "name": "Wrap",
+      "imageUrl": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Wrap.jpg"
+    },
+    {
+      "name": "Salad",
+      "imageUrl": "https://th.bing.com/th/id/OIP.jevUF8toFBsTCfqvRcuIRQAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Dessert",
+      "imageUrl": "https://th.bing.com/th/id/OIP.YiQBECZpJyOdQ_XaFuGejwHaHt?rs=1&pid=ImgDetMain"
+    },
+    {
+      "name": "Cocktail",
+      "imageUrl": "https://www.thespruceeats.com/thmb/uiC0MCgm-wncN3TvF_EFM0bWKCk=/6000x4000/filters:fill(auto,1)/negroni-cocktail-recipe-759327-6-5b3f965b46e0fb00364f8d61.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "Cheeseburger",
+      "description": "A classic cheeseburger with a juicy beef patty, melted cheese, lettuce, tomato, and pickles.",
+      "price": 4.99,
+      "rating": 4.5,
+      "category": "Burger",
+      "thumbnail": "https://www.thereciperebel.com/wp-content/uploads/2020/07/best-burgers-www.thereciperebel.com-1200-13-of-18.jpg",
+      "quantity": 1
+    }
+  ],
+  "user": [
+    {
+      "email": "rampalyadav23082001@gmail.com",
+      "password": "Qwerty@1234",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "email": "monurao23082001@gmail.com",
+      "password": "Qwerty@12345",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "Qjhdsgafhjzdbfhaer3293898231822Q@",
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "order": [
+    {
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Cheeseburger",
+          "description": "A classic cheeseburger with a juicy beef patty, melted cheese, lettuce, tomato, and pickles.",
+          "price": 4.99,
+          "rating": 4.5,
+          "category": "Burger",
+          "thumbnail": "https://www.thereciperebel.com/wp-content/uploads/2020/07/best-burgers-www.thereciperebel.com-1200-13-of-18.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "title": "Hamburger",
+          "description": "A traditional hamburger with a seasoned beef patty, lettuce, tomato, onions, and pickles on a sesame seed bun.",
+          "price": 3.99,
+          "rating": 4.2,
+          "category": "Burger",
+          "thumbnail": "https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000224.jpg?ver=43.48",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 8.98,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qjhdsgafhjzdbfhaer3293898231822Q@",
+        "role": "user",
+        "id": 5
+      },
+      "paymentMethod": "cash",
+      "status": "pending",
+      "id": 1
+    },
+    {
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Cheeseburger",
+          "description": "A classic cheeseburger with a juicy beef patty, melted cheese, lettuce, tomato, and pickles.",
+          "price": 4.99,
+          "rating": 4.5,
+          "category": "Burger",
+          "thumbnail": "https://www.thereciperebel.com/wp-content/uploads/2020/07/best-burgers-www.thereciperebel.com-1200-13-of-18.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 4.99,
+      "totalItems": 1,
+      "user": null,
+      "paymentMethod": "cash",
+      "status": "pending",
+      "id": 2
+    },
+    {
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Cheeseburger",
+          "description": "A classic cheeseburger with a juicy beef patty, melted cheese, lettuce, tomato, and pickles.",
+          "price": 4.99,
+          "rating": 4.5,
+          "category": "Burger",
+          "thumbnail": "https://www.thereciperebel.com/wp-content/uploads/2020/07/best-burgers-www.thereciperebel.com-1200-13-of-18.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 4.99,
+      "totalItems": 1,
+      "user": null,
+      "paymentMethod": "cash",
+      "status": "pending",
+      "id": 3
+    },
+    {
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Cheeseburger",
+          "description": "A classic cheeseburger with a juicy beef patty, melted cheese, lettuce, tomato, and pickles.",
+          "price": 4.99,
+          "rating": 4.5,
+          "category": "Burger",
+          "thumbnail": "https://www.thereciperebel.com/wp-content/uploads/2020/07/best-burgers-www.thereciperebel.com-1200-13-of-18.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 4.99,
+      "totalItems": 1,
+      "user": null,
+      "paymentMethod": "cash",
+      "status": "pending",
+      "id": 4
+    },
+    {
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Cheeseburger",
+          "description": "A classic cheeseburger with a juicy beef patty, melted cheese, lettuce, tomato, and pickles.",
+          "price": 4.99,
+          "rating": 4.5,
+          "category": "Burger",
+          "thumbnail": "https://www.thereciperebel.com/wp-content/uploads/2020/07/best-burgers-www.thereciperebel.com-1200-13-of-18.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 4.99,
+      "totalItems": 1,
+      "user": null,
+      "paymentMethod": "cash",
+      "status": "pending",
+      "id": 5
+    },
+    {
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Cheeseburger",
+          "description": "A classic cheeseburger with a juicy beef patty, melted cheese, lettuce, tomato, and pickles.",
+          "price": 4.99,
+          "rating": 4.5,
+          "category": "Burger",
+          "thumbnail": "https://www.thereciperebel.com/wp-content/uploads/2020/07/best-burgers-www.thereciperebel.com-1200-13-of-18.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 4.99,
+      "totalItems": 1,
+      "user": null,
+      "paymentMethod": "cash",
+      "status": "pending",
+      "id": 6
+    }
+  ]
+}
