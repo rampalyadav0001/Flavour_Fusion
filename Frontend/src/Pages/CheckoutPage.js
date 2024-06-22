@@ -44,7 +44,7 @@ function CheckoutPage() {
         // key: 'dbscpFrBGa17cLi7AkvYM9hb', // Enter the Key ID generated from the Dashboard
         amount: data?.amount, // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
         currency: 'INR',
-        name: 'Acme Corp',
+        name: 'Food Court',
         description: 'Test Transaction',
         image: 'https://example.com/your_logo',
         order_id: data?.id, //This is a sample Order ID. Pass the `id` obtained in the response of Step 1
